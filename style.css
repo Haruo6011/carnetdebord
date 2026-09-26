@@ -1,0 +1,18 @@
+h1
+{
+    color: red;
+}
+
+body
+{
+    background-color: rgb(104, 0, 0);
+}
+
+#carte
+{
+    width: 740px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
